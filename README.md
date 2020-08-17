@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the coursework done for [Math 245: Mathematical Modelling](http://qcpages.qc.cuny.edu/~chanusa/courses/245/19sp/index.html) during the Fall 2019 semester at Queen's College.
+This repository contains the coursework done for [Math 245: Mathematical Modelling](http://qcpages.qc.cuny.edu/~chanusa/courses/245/19sp/index.html) during the Fall 2019 semester at Queen's College. The course dealt with construction, analysis, and assessment of mathematical models as they arise in the physical, biological, and social sciences.
 
 ## Installing Pre-Requisites
 
@@ -16,7 +16,7 @@ This repository contains the coursework done for [Math 245: Mathematical Modelli
 2. Use the terminal (or command prompt) to navigate to the repository.
 3. Start up Jupyter Notebooks by using the following command: `jupyter notebook`.
 4. Open up your browser and open either `http://localhost:8888/` or `http://127.0.0.1:8888/`. You should see the following: ![Jupyter Dashboard](https://imgur.com/a/KMCz7oK).
-5. Navigate to any folder and open up the `.ipynb` files to get started.
+5. Navigate to any folder and open up the `*.ipynb` files to get started.
 6. For more information about how to use Jupyter notebooks, check out [this post](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks) by Code Academy, and  [Jupyter Docs](https://jupyter-notebook.readthedocs.io/en/stable/).
 
 ## Authors
